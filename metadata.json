@@ -1,0 +1,5 @@
+{
+  "name": "IRCTC Alerts Dashboard",
+  "description": "A high-fidelity React implementation of a railway alerts dashboard featuring real-time tickers, searchable train status updates, and responsive filtering.",
+  "requestFramePermissions": []
+}
